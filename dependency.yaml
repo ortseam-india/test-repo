@@ -1,5 +1,5 @@
 dependencies:  
 - repo_name: platform    
-  release_tag: 10.4
+  release_tag: 10.9
 - repo_name: repo2    
   release_tag: v15.3
